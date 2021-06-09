@@ -1,2 +1,3 @@
 # hello-world
-Beginning my first chapter
+Learning my first repository
+First repository
